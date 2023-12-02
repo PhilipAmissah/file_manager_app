@@ -1,0 +1,19 @@
+{
+        "name": "my-express-app",
+        "version": "1.0.0",
+        "description": "A simple Express app",
+        "main": "app.js",
+        "scripts": {
+            "start": "node app.js",
+            "test": "mocha"
+        },
+        "author": "PhilTech",
+        "license": "ISC",
+        "dependencies": {
+            "express": "^4.17.1"
+        },
+        "devDependencies": {
+            "mocha": "^8.2.1",
+            "chai": "^4.2.0"
+        }
+    }

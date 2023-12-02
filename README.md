@@ -7,6 +7,10 @@ This is a simple file manager console application developed using Node.js. It al
 - List all files in a directory
 - Read a file
 - Write to a file
+- delete a file
+- Rename a file 
+- Check if a file exists
+- Create a new directory
 
 ## Getting Started
 
